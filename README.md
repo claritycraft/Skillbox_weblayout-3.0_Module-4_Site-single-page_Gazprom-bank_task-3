@@ -1,7 +1,7 @@
 # Skillbox_weblayout-3.0_Module-4_Site-single-page_Gazprom-bank_task-3
 
-### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
-### Please give this project a star ⭐ if you found it interesting.
+#### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
+#### Please give this project a ⭐ if you found it interesting.
 
 Completed coursework for the Skillbox Web Development 3.0 course, Module 4, Assignment 3: Single-page layout for the Gazprombank site. Готовая учебная работа по курсу от Skillbox Веб разработка 3.0 Модуль 4, задание 3. Макет одной страницы сайта Газпром банк
 
